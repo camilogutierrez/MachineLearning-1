@@ -5,3 +5,5 @@ El curso es teórico - práctico. Se dictarán clases teóricas con las técnica
 El contenido del curso incluye una introducción al ambiente de trabajo en Python, pero no es un curso avanzado de Python o SIG; por lo tanto, no requiere conocimientos profundos en dichas herramientas. Sin embargo, las personas expertas en cualquiera de estas herramientas son bienvenidas a aportar desde su conocimiento y en el marco del contenido del curso. El curso es una construcción conjunta de conocimiento por parte tanto de los estudiantes como del profesor.
 
 ## CONTENIDO
+### [Clases](https://github.com/edieraristizabal/MachineLearning/tree/master/CLASES)
+### [Notebooks](https://github.com/edieraristizabal/MachineLearning/tree/master/NOTEBOOKS)
