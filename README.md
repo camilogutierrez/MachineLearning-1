@@ -8,6 +8,7 @@ El contenido del curso incluye una introducción al ambiente de trabajo en Pytho
 ### [Clases](https://github.com/edieraristizabal/MachineLearning/tree/master/CLASES)
 ### [Notebooks](https://github.com/edieraristizabal/MachineLearning/tree/master/NOTEBOOKS)
 
-## LIBRO
+
+## LIBROS
 ### [Pattern Recognition & Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 ### [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
